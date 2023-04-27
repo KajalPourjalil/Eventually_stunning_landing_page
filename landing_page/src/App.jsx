@@ -10,6 +10,7 @@ function App() {
       <p>Como vai?</p>
       <p>Eu me chamo Kajal</p>
       <p>Prazer em conhece-lo</p>
+      <p>Eu amo Vite e Portuguese</p>
 
     </div>
   )
