@@ -9,6 +9,7 @@ function App() {
       <h1>Ola</h1>
       <p>Como vai?</p>
       <p>Eu me chamo Kajal</p>
+      <p>Prazer em conhece-lo</p>
 
     </div>
   )
